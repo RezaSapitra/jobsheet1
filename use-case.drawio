@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-08-22T07:18:14.435Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="idd_ab6jv3Y0VS63V3LA" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-22T07:22:52.983Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="1ZvHEH3CePQMyN8O1Qg4" version="21.6.8" type="github">
   <diagram name="Page-1" id="ZBOImXk49Cvvsjajhp_c">
-    <mxGraphModel dx="789" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="458" dy="285" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bPoInvRaNi3clHKKffSU-1" value="&lt;h3&gt;&lt;font face=&quot;Garamond&quot;&gt;Computer&lt;/font&gt;&lt;/h3&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="490" width="40" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="bPoInvRaNi3clHKKffSU-9" value="&lt;h3&gt;&lt;font face=&quot;Garamond&quot;&gt;Player 2&lt;br&gt;(user)&lt;/font&gt;&lt;/h3&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="bPoInvRaNi3clHKKffSU-9" value="&lt;h3&gt;&lt;font face=&quot;Garamond&quot;&gt;Player 1&lt;br&gt;(user)&lt;/font&gt;&lt;/h3&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="490" width="40" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bPoInvRaNi3clHKKffSU-20" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=0" vertex="1" parent="1">
